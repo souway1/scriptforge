@@ -7,9 +7,6 @@
 ### 🔍 [Username Checker](./username-checker)
 Асинхронный чекер никнеймов по 100+ платформам.
 
-### 📄 [Parser](./parser)
-Универсальный парсер сайтов.
-
 ## Скоро
 
 - 🐍 SnakeEye — Telegram-бот для OSINT-проверок
