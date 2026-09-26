@@ -4,8 +4,11 @@
 
 ## Проекты
 
-### 🔍 [Username Checker](./username-checker)
-Асинхронный чекер никнеймов по 100+ платформам.
+### 🔍 Username Checker
+Асинхронный OSINT-инструмент для проверки юзернеймов по 100+ платформам.
+
+### 📞 NumHunter
+OSINT-инструмент для анализа номеров телефонов. Проверка, валидация, batch-обработка.
 
 ## Скоро
 
@@ -13,8 +16,10 @@
 - 🌐 IP Intelligence — информация по IP-адресам
 
 ## Автор
+з
+Разработал: [Souway](https://t.me/souvvay)
 
-Разработал: [Python Wave | OSINT (https://t.me/pythonwave)
+Канал: [Python Wave | OSINT](https://t.me/pythonwave)
 
 ---
 
